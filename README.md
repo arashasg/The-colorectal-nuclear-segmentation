@@ -2,7 +2,7 @@
 In this project, I’ve used transfer learning and U-net to implement a model for medical image segmentation.
 
 # Model:
-In this project, I used the U-net model, a well-known model for medical image segmentation. What’s more, I used transfer learning. I used Resnet as the backbone of my U-net with pretrained parameters of image-net.
+In this project, I used the U-net model, a well-known model for medical image segmentation. In addition, I employed Resnet as the backbone of my U-net with pretrained parameters of image-net.
 ## Dataset:
 The colorectal nuclear segmentation and phenotypes (CoNSeP) dataset consist of 41 H&E stained image tiles, each of size 1,000×1,000 pixels at 40× objective magnification. The images were extracted from 16 colorectal adenocarcinomas (CRA) WSIs, each belonging to an individual patient, and scanned with an Omnyx VL120 scanner within the department of pathology at University Hospitals Coventry and Warwickshire, UK.
 
